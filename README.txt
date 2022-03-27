@@ -1,3 +1,5 @@
+Important note! - The process described is used to prepare app via Windows CMD. All commands assume you have CMD already opened.
+
 1. We create a separate directory for our project then move into newly created folder.
 	mkdir FlaskApp
 	cd FlaskApp
